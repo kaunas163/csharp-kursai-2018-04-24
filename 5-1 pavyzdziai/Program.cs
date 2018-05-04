@@ -27,7 +27,7 @@ namespace _5_1_pavyzdziai
 
             //if (true)
             //{
-                
+                //sfgsddhgbdhgbdfjgfd
             //}
             //else if (true)
             //{
